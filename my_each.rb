@@ -9,4 +9,5 @@ end
     yield(numbers[i])
     i = i + 1 
   end
+numbers
 end
