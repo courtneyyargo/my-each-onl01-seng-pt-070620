@@ -1,8 +1,8 @@
 numbers = [1, 2, 3, 4]
 
 def my_each(numbers) do |i|
-  if block_given?
-    i = 0 
+if block_given?
+  i = 0 
   
     
   while i < numbers.length 
