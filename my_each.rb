@@ -7,5 +7,5 @@ def my_each(numbers) do |i|
     while i < numbers.length 
       yield(numbers[i])
       i = i + 1 
-    end
+  end
 end
